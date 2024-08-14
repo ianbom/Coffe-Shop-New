@@ -38,3 +38,33 @@ Start the local development server
     php artisan serve
 
 You can now access the server at http://localhost:8000
+
+Homepage
+![intro2](https://github.com/user-attachments/assets/b3d9e073-e57d-4ef9-b5ff-0a55e1b77dbf)
+
+
+
+Menupage
+![FireShot Capture 009 - Coffee BOM - 127 0 0 1](https://github.com/user-attachments/assets/f270b5ef-b28c-4863-be58-33eb64e2065a)
+
+
+
+Loginpage
+![FireShot Capture 007 - Daily UI - Day 1 Sign In - 127 0 0 1](https://github.com/user-attachments/assets/44b58df7-c60a-4106-a57a-1740bd6e8125)
+
+
+
+Registerpage
+![FireShot Capture 008 - Daily UI - Day 1 Sign In - 127 0 0 1](https://github.com/user-attachments/assets/fc1de73a-23be-403e-8692-97be67b207c2)
+
+
+
+Dahsboard
+![FireShot Capture 020 - Product dashboard - 127 0 0 1](https://github.com/user-attachments/assets/845a3ae9-7979-4d23-abe2-111c11e0a099)
+
+
+
+
+
+
+
